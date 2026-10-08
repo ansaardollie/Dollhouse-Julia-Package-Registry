@@ -1,0 +1,6 @@
+name = "Dollhouse"
+uuid = "28442960-0aba-4f83-b243-1dd0583a0fdb"
+repo = "git@github.com-personal:ansaardollie/Dollhouse-Julia-Package-Registry.git"
+description = "Registry for Dollhouse Dev Julia Packages"
+
+[packages]
